@@ -223,3 +223,16 @@ h4{
     background-color: #3882F6;
     width: fit-content;
 }
+
+.footer{
+    background-color: #1f2937;
+    color: #F9FAF8;
+    font-size: 24px;
+    font-weight: 400;
+    min-height: 12vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    
+}
